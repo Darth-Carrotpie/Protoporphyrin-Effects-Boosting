@@ -36,8 +36,12 @@ The PDF also refers to hypoxia obtained in earlier laser coursework. That statem
 
 The legacy PPT states that acidic photoprocesses did not occur, whereas the PPTX states that they were not observed. The manuscript's aggregation and detection limitations support the narrower non-observation statement. This discrepancy is preserved rather than resolved by treating all presentation formats as interchangeable.
 
+> **Status: Disputed**
+> The presentation versions differ on absence of photochemistry versus absence of observation. The compiled finding is limited to non-observation because aggregation obscured the measurement.
+
 ## See Also
 
 - [Original research overview](research-overview.md)
 - [Experimental design](experimental-design.md)
 - [Limitations and open questions](limitations-and-open-questions.md)
+- [Later photochemistry and analytical advances](../research/photochemistry-since-the-thesis.md)

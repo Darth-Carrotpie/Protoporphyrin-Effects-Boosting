@@ -4,6 +4,8 @@ A source-grounded research wiki beginning with Danielius Vargonas's Vilnius Univ
 
 Start at the [wiki index](wiki/index.md). The [research overview](wiki/thesis/research-overview.md) explains the original question and the [experimental design](wiki/thesis/experimental-design.md) records the conditions needed to interpret the findings.
 
+The [continuation research](wiki/research/continuation-and-breakthroughs.md) covers later work through November 19, 2026, emphasizes significant scientific and therapeutic advances, and links to a proposed research program. Direct evidence, related therapies, preliminary results and analyst proposals are distinguished throughout.
+
 ## Evidence and maintenance
 
 - `raw/` contains immutable original documents and faithful text extracts. Original thesis files were relocated here without changing their bytes; presentation variants remain separate sources.

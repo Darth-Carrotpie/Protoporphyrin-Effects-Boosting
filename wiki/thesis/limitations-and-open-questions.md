@@ -20,7 +20,7 @@ Those suggestions address the actual unresolved experiment: how to observe and i
 | Does the mechanism persist under low oxygen? | The motivation and diagrams invoke hypoxia, but the main pH study supplies no direct oxygen measurement or controlled oxygen series. |
 | Is Fenton chemistry involved? | No iron-control, iron-speciation or radical-mechanism experiment is reported; the presentation explicitly leaves this for further work. |
 | Is the pH effect independent of formulation? | PpIX/BSA concentrations and buffer composition vary between conditions, and final DMSO content is unspecified. |
-| Are differences reproducible? | Independent replicates, uncertainty and machine-readable source traces are not provided in this repository's source set. |
+| Are differences reproducible? | Independent replicates and uncertainty are not reported in the extracted prose. No separate instrument-data archive was supplied; embedded graph objects were not reverse-engineered into numerical data. |
 
 ## Historical context needs separate verification
 
@@ -33,3 +33,5 @@ Any continuation must distinguish the author's findings from later work, disting
 - [Original research overview](research-overview.md)
 - [Experimental design](experimental-design.md)
 - [Findings and proposed mechanisms](findings-and-mechanisms.md)
+- [Continuation research and significant advances](../research/continuation-and-breakthroughs.md)
+- [Proposed continuation research](../research/continuation-research-program.md)

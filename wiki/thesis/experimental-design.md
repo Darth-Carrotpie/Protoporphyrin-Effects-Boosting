@@ -53,3 +53,4 @@ No separate instrument-data archive was supplied. The extracted prose provides n
 - [Original research overview](research-overview.md)
 - [Findings and proposed mechanisms](findings-and-mechanisms.md)
 - [Limitations and open questions](limitations-and-open-questions.md)
+- [Proposed continuation research](../research/continuation-research-program.md)

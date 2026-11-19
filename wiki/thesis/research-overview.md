@@ -33,3 +33,4 @@ The original binaries accompany their text extracts under `raw/thesis/`. Graphs 
 - [Experimental design](experimental-design.md)
 - [Findings and proposed mechanisms](findings-and-mechanisms.md)
 - [Limitations and open questions](limitations-and-open-questions.md)
+- [Continuation research and significant advances](../research/continuation-and-breakthroughs.md)
